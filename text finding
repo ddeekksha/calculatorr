@@ -1,0 +1,6 @@
+city= "my city name is indore"
+print( type(city))
+print(city.endswith("ore"))
+print(city.startswith("name"))
+print(city.count("i"))
+print(city.replace("is", "are"))
